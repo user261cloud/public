@@ -1,7 +1,7 @@
 # Run this with 
 #   curl -s -L https://github.com/user261cloud/public/raw/main/tbotsetup.sh | bash
 #                         OR
-#   export ENC_PASSWORD='' ; curl -s -L https://github.com/user261cloud/public/raw/main/tbotsetup.sh | bash
+#   export ENC_PASSWORD= ; curl -s -L https://github.com/user261cloud/public/raw/main/tbotsetup.sh | bash
 # and enter the password on prompt
 # 
 # How to make this file?
